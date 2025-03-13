@@ -1,0 +1,2 @@
+Hello, this is the initial content.
+Appending more text to the file.
